@@ -4,7 +4,7 @@ var a = {
 			'Pernah kontak dengan pasien positif COVID-19 (berada dalam satu ruangan yang sama/kontak dalam jarak 1 meter) ATAU Pernah berkunjung ke negara/daerah endemis COVID-19 dalam 14 hari terakhir?',
 			`Sedang atau pernah mengalami :
 				<ul style="text-align: left; margin: 0 auto; max-width: 200px;"><li>demam (> 38&#176; C)</li><li>pilek</li><li>batuk</li><li>sesak napas</li></ul>`,
-			'Karantida diri anda selama 14 hari terhitung setelah kontak/kunjungan',
+			'Karantina diri anda selama 14 hari terhitung setelah kontak/kunjungan',
 			`Selama 14 hari karantina diri, Anda mengalami :
 				<ul style="text-align: left; margin: 0 auto; max-width: 200px;"><li>demam (> 38&#176; C)</li><li>pilek</li><li>batuk</li><li>sesak napas</li></ul>`,
 		],
